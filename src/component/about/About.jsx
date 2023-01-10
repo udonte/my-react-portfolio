@@ -35,13 +35,13 @@ const About = () => {
           <article className="about__card">
             <FaUsers className='about__icon' />
             <h5>Clients</h5>
-            <small>10+ Clients</small>
+            <small>5+ Clients</small>
           </article>
 
           <article className="about__card">
             <AiFillFolderOpen className='about__icon' />
             <h5>Projects</h5>
-            <small>10+ Completed</small>
+            <small>5+ Completed</small>
           </article>
           </div>
 
@@ -49,7 +49,7 @@ const About = () => {
             George is a Frontend Developer, with skills in UI Design and Technical Writing, who enjoys building products and applications that solve human problems. With a background in Customer Service, Tech Training & Support, Graphic Design, Content Writing, and Product Support, George is able to add value and build a dynamic career by developing scalable tech solutions that address specific user needs.
             <br />
             <br />
-            He is experienced in building and maintain websites, implementing responsive designs, optimizing website performance and collaborating with any development team to implement new features and fix bugs.
+            He is experienced in building and maintaining websites, implementing responsive designs, optimizing website performance and collaborating with any development team to implement new features and fix bugs.
             <br />
             <br />
             George is always looking for opportunities to learn and improve his skills in order to become a world-class Developer in the tech space. His interests include Product Design, Product Development, and Product Management.

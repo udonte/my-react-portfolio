@@ -14,7 +14,7 @@ const Experience = () => {
 
         {/* FRONTEND */}
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Frontend Development & Design</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
@@ -46,29 +46,65 @@ const Experience = () => {
               <small className='text-light'>Intermediate</small>
               </div>
             </article>
-          </div>
-        </div>
-
-        {/* UI DESIGN & GRAPHICS */}
-        <div className="experience__ui">
-          <h3>UI Design and Graphics</h3>
-          <div className="experience__content">
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div><h4>Git & Github</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div><h4>Figma</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </article>
-             <article className="experience__details">
+            <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div><h4>Canva</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
+          </div>
+        </div>
+
+        {/* UI DESIGN & GRAPHICS */}
+        <div className="experience__ui">
+          <h3>Soft Skills</h3>
+          <div className="experience__content">
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div><h4>Teamwork</h4>
+              <small className='text-light'>Strong</small>
+              </div>
+            </article>
              <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
-              <div><h4>Adobe Photoshop</h4>
-              <small className='text-light'>Intermediate</small>
+              <div><h4>Problem Solving</h4>
+              <small className='text-light'>Good</small>
+              </div>
+            </article>
+             <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div><h4>Communication</h4>
+              <small className='text-light'>Solid</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div><h4>Time Management</h4>
+              <small className='text-light'>Good</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div><h4>Self-Learner</h4>
+              <small className='text-light'>Strong</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div><h4>Flexibility</h4>
+              <small className='text-light'>Strong</small>
               </div>
             </article>
           </div>
