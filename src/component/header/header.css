@@ -75,10 +75,17 @@ header{
   }
   .header__socials {
     flex-direction: row;
+    justify-content: space-between;
+    gap: 1.2rem;
+    z-index: 3;
   }
+  .header__socials::after {
+    display: none;
+  }
+  .header__socials a {
+    font-size: 1.7rem;
+  }   
 }
-    
-
 
 
 

@@ -1,6 +1,6 @@
 import React from 'react'
-import profileImage from '../../assets/me2.png'
-import { FaAward, FaUsers } from 'react-icons/fa'
+import profileImage from '../../assets/me7.jpeg'
+import { FaAward, FaUsers, FaLaptopCode } from 'react-icons/fa'
 import {AiFillFolderOpen} from 'react-icons/ai'
 
 import './about.css'
@@ -20,6 +20,12 @@ const About = () => {
 
         <div className="about__content">
           <div className="about__cards-container">
+            <article className="about__card">
+            <FaLaptopCode className='about__icon' />
+            <h5>Industry</h5>
+            <small>Knowledge</small>
+          </article>
+
           <article className="about__card">
             <FaAward className='about__icon' />
             <h5>Experience</h5>
@@ -47,7 +53,7 @@ const About = () => {
             <br />
             <br />
             He is constantly honing his skills in order to become a world-class Product Engineer in the tech space.
-            His interests includes Product Design, Product Development and Product Development.
+            His interests includes Product Design, Product Development and Product Management.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

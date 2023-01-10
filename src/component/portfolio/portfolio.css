@@ -10,6 +10,11 @@
   border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: center;
 }
 
 .portfolio__item:hover{
@@ -30,6 +35,8 @@
   display: flex;
   gap: 1rem;
   margin-bottom: 1rem;
+  align-items: center;
+  justify-content: center;
 }
 
 /* ====== MEDIA QUERIES (MEDIUM DEVICES) ====== */
@@ -47,13 +54,3 @@
     gap: 1rem;
   }
 }
-
-
-
-
-
-
-
-
-
-

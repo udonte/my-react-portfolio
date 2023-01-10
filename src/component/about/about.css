@@ -14,7 +14,8 @@
 }
 
 .about__me-image{
-  border-radius: 50%;
+  border-radius: 2rem;
+  border: 3px solid var(--color-primary);
   overflow: hidden;
   transform: rotate(10deg);
   transition: var(--transition);
@@ -26,15 +27,15 @@
 
 .about__cards-container{
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.86rem;
 }
 
 .about__card{
   background: var(--color-bg-variant);
   border: 1px solid transparent;
   border-radius: 1rem;
-  padding: 2rem;
+  padding: 1rem 0.6rem;
   text-align: center;
 }
 
@@ -91,7 +92,7 @@
 
  .about__cards-container{
   grid-template-columns: 1fr 1fr;
-  gap: 1rem\;
+  gap: 1rem;
  }
  .about__content{
   text-align: center;
@@ -100,8 +101,6 @@
   margin: 1.5rem 0;
  }
 }
-
-
 
 
 
