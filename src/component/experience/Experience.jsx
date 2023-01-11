@@ -14,7 +14,7 @@ const Experience = () => {
 
         {/* FRONTEND */}
         <div className="experience__frontend">
-          <h3>Frontend Development & Design</h3>
+          <h3>Development & Design</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
@@ -85,7 +85,7 @@ const Experience = () => {
             </article>
              <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
-              <div><h4>Communication</h4>
+              <div><h4>Creativity</h4>
               <small className='text-light'>Solid</small>
               </div>
             </article>
