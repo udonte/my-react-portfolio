@@ -2,6 +2,7 @@ import React from 'react'
 import portfolio1 from '../../assets/chatgpt.PNG'
 import portfolio2 from '../../assets/restaurant.png'
 import portfolio3 from '../../assets/setterapp.PNG'
+import portfolio4 from '../../assets/hoobank.png'
 
 
 import './portfolio.css'
@@ -30,6 +31,14 @@ const data = [
     details: 'Social Media Management Solution',
     github: 'https://github.com/Tiidelab-Fellowship/setter-app-react-fe',
     demo: 'https://setterapp.vercel.app/'
+  },
+  {
+    id: 4,
+    image: portfolio4,
+    title: 'Hoobank',
+    details: 'Bank Application',
+    github: 'https://github.com/udonte/bank_modern_app',
+    demo: 'https://hoobankapplication.netlify.app/'
   }
 ]
 
