@@ -21,7 +21,7 @@ const data = [
     image: portfolio2,
     title: 'Gericht Restaurant Website',
     github: 'https://github.com/udonte/restaurant-app',
-    details: 'Landing Page for Resturant Web Application',
+    details: 'Landing Page for Restaurant Web Application',
     demo: 'https://georgiesrestaurant.netlify.app/'
   },
   {
@@ -36,7 +36,7 @@ const data = [
     id: 4,
     image: portfolio4,
     title: 'Hoobank',
-    details: 'Bank Application',
+    details: 'Landing Page Bank Web Application',
     github: 'https://github.com/udonte/bank_modern_app',
     demo: 'https://hoobankapplication.netlify.app/'
   }
