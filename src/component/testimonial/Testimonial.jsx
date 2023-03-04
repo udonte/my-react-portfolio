@@ -2,6 +2,8 @@ import React from 'react'
 import testimonialImage1 from '../../assets/esohe.png'
 import testimonialImage2 from '../../assets/preston.png'
 import testimonialImage3 from '../../assets/eniola.png'
+import testimonialImage4 from '../../assets/shams.jpg'
+import testimonialImage5 from '../../assets/victor.jpg'
 
 import './testimonial.css'
 
@@ -23,6 +25,12 @@ const data = [
     review: "George is very dedicated to work and highly skilled in tech. As a client of his. I always enjoyed his services and after-service support he rendered, whenever needed."
   },
   {
+    avatar: testimonialImage4,
+    name: "Shams Aderoju",
+    position: "Program Cordinator  - TIIDELab",
+    review: "His poise, calmness, attention to detail, and deep understand oof frontend software technologies stands himout among his peers. I recommend him to anyone that might require his services."
+  },
+  {
     avatar: testimonialImage2,
     name: "Preston Sule",
     position: "CEO/Chief Customer Officer - Inter-Link Moving & Storage Ltd",
@@ -33,6 +41,12 @@ const data = [
     name: "Eniola Omotayo",
     position: "Human Resource Administrator | Business Ethics",
     review: "George is hardworking and very diligent. He is also proactive and delivers timely. I have worked with him and I can attest for his professionalism and strong work ethics."
+  },
+  {
+    avatar: testimonialImage5,
+    name: "Victor Bassey",
+    position: "Frontend Developer | UI Designer",
+    review: "He used his background skills as a content writer, UI Designer, graphic designer, customer servicer and in product support; to influence the design and development of a team project. A typical scenario was when he revamped the user interface of the project, for a better and cleaner design."
   }
 ]
 
