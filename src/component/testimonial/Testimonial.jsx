@@ -46,7 +46,7 @@ const data = [
     avatar: testimonialImage5,
     name: "Victor Bassey",
     position: "Frontend Developer | UI Designer",
-    review: "He used his background skills as a content writer, UI Designer, graphic designer, customer servicer and in product support; to influence the design and development of a team project. A typical scenario was when he revamped the user interface of the project, for a better and cleaner design."
+    review: "He used his background skills as a content writer, UI Designer, graphic designer, customer servicer and in product support; to influence the design and development of a team project at Tiidelab."
   }
 ]
 
