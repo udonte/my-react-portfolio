@@ -55,8 +55,8 @@ const data = [
     image: portfolio5,
     title: 'WoodHub Shopping Cart',
     details: 'Proof of concept for a functional Shopping Cart built with HTML, CSS & JavaScript.',
-    github: 'https://github.com/udonte/bank_modern_app',
-    demo: 'https://hoobankapplication.netlify.app/'
+    github: 'https://github.com/udonte/woodhub-shopping-cart',
+    demo: 'https://woodhubshoppingcart.netlify.app/'
   }
 
 ]
