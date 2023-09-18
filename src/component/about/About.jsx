@@ -29,24 +29,24 @@ const About = () => {
           <article className="about__card">
             <FaAward className='about__icon' />
             <h5>Experience</h5>
-            <small>3yr+ Working</small>
+            <small>1yr+ Working</small>
           </article>
 
-          <article className="about__card">
+          {/* <article className="about__card">
             <FaUsers className='about__icon' />
             <h5>Clients</h5>
             <small>20+ Clients</small>
-          </article>
+          </article> */}
 
           <article className="about__card">
             <AiFillFolderOpen className='about__icon' />
             <h5>Projects</h5>
-            <small>30+ Completed</small>
+            <small>5+ Completed</small>
           </article>
           </div>
 
           <p>
-            George is a Frontend Developer, with skills in UI Design and Technical Writing, who enjoys building products and applications that solve human problems. With a background in Customer Service, Tech Training & Support, Graphic Design, Content Writing, and Product Support, George is able to add value and build a dynamic career by developing scalable tech solutions that address specific user needs.
+            George is a Frontend Developer, with skills in Technical Writing & Project Management, who enjoys building products and applications that solve human problems. With a background in Customer Service, Tech Training & Support, Graphic Design, Content Writing, and Product Support, George is able to add value and build a dynamic career by developing scalable tech solutions that address specific user needs.
             <br />
             <br />
             He is experienced in building and maintaining websites, implementing responsive designs, optimizing website performance and collaborating with any development team to implement new features and fix bugs.
