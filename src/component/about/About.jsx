@@ -19,6 +19,7 @@ const About = () => {
         </div>
 
         <div className="about__content">
+          {/*  
           <div className="about__cards-container">
             <article className="about__card">
               <FaLaptopCode className="about__icon" />
@@ -36,7 +37,7 @@ const About = () => {
             <FaUsers className='about__icon' />
             <h5>Clients</h5>
             <small>20+ Clients</small>
-          </article> */}
+          </article>
 
             <article className="about__card">
               <AiFillFolderOpen className="about__icon" />
@@ -44,6 +45,7 @@ const About = () => {
               <small>5+ Completed</small> " "
             </article>
           </div>
+          */}
 
           <p>
             George is a Frontend Developer, with skills in Technical Writing &
