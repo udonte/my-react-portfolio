@@ -48,24 +48,13 @@ const About = () => {
           */}
 
           <p>
-            George is a Frontend Developer, with skills in Technical Writing &
-            Project Management, who enjoys building products and applications
-            that solve human problems. With a background in Customer Service,
-            Tech Training & Support, Graphic Design, Content Writing, and
-            Product Support, George is able to add value and build a dynamic
-            career by developing scalable tech solutions that address specific
-            user needs.
+           As a frontend developer, I have a diverse skill set, including technical writing and project management, and I'm passionate about creating solutions that address real-world challenges. With a background in customer service, tech training and support, graphic design, content creation, and product support, I bring a unique perspective to every project.
             <br />
             <br />
-            He is experienced in building and maintaining websites, implementing
-            responsive designs, optimizing website performance and collaborating
-            with any development team to implement new features and fix bugs.
+            I excel in building and maintaining websites, implementing responsive designs, and optimizing website performance. My collaborative nature makes me a valuable asset to any development team, where I contribute ideas, implement new features, and resolve issues efficiently.
             <br />
             <br />
-            George is always looking for opportunities to learn and improve his
-            skills in order to become a world-class Developer in the tech space.
-            His interests include Product Design, Product Development, and
-            Product Management.
+            I am committed to continuous learning and strive to become a top-tier developer in the tech industry.
           </p>
 
           <a href="#contact" className="btn btn-primary">
