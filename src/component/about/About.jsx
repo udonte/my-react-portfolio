@@ -1,7 +1,5 @@
 import React from "react";
 import profileImage from "../../assets/me7.jpeg";
-import { FaAward, FaUsers, FaLaptopCode } from "react-icons/fa";
-import { AiFillFolderOpen } from "react-icons/ai";
 
 import "./about.css";
 
@@ -48,13 +46,22 @@ const About = () => {
           */}
 
           <p>
-           As a frontend developer, I have a diverse skill set, including technical writing and project management, and I'm passionate about creating solutions that address real-world challenges. With a background in customer service, tech training and support, graphic design, content creation, and product support, I bring a unique perspective to every project.
+            As a frontend developer, I have a diverse skill set, including
+            technical writing and project management, and I'm passionate about
+            creating solutions that address real-world challenges. With a
+            background in customer service, tech training and support, graphic
+            design, content creation, and product support, I bring a unique
+            perspective to every project.
             <br />
             <br />
-            I excel in building and maintaining websites, implementing responsive designs, and optimizing website performance. My collaborative nature makes me a valuable asset to any development team, where I contribute ideas, implement new features, and resolve issues efficiently.
+            I excel in building and maintaining websites, implementing
+            responsive designs, and optimizing website performance. My
+            collaborative nature makes me a valuable asset to any development
+            team, where I contribute ideas, implement new features, and resolve
+            issues efficiently.
             <br />
-            <br />
-            I am committed to continuous learning and strive to become a top-tier developer in the tech industry.
+            <br />I am committed to continuous learning and strive to become a
+            top-tier developer in the tech industry.
           </p>
 
           <a href="#contact" className="btn btn-primary">
